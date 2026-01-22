@@ -1,6 +1,7 @@
 ## Day 2 Numbers, Variables And Stings
 
 # Variables
+- These are containers for storing data values
 - Variables in python are created by assigning values to them
 - EG : my_number = 3
 
